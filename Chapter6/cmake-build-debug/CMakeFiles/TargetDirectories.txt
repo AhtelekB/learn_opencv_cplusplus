@@ -1,0 +1,3 @@
+/home/ahtelek/Desktop/ahtelek/code/opencv_cplusplus/Chapter6/cmake-build-debug/CMakeFiles/Chapter6.dir
+/home/ahtelek/Desktop/ahtelek/code/opencv_cplusplus/Chapter6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ahtelek/Desktop/ahtelek/code/opencv_cplusplus/Chapter6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

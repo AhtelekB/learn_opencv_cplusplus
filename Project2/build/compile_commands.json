@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ahtelek/Desktop/ahtelek/code/opencv_cplusplus/Project2/build",
+  "command": "/usr/bin/g++ -isystem /usr/local/include/opencv4 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/Project2.dir/main.cpp.o -c /home/ahtelek/Desktop/ahtelek/code/opencv_cplusplus/Project2/main.cpp",
+  "file": "/home/ahtelek/Desktop/ahtelek/code/opencv_cplusplus/Project2/main.cpp"
+}
+]

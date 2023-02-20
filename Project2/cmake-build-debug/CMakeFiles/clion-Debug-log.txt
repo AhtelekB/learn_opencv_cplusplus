@@ -1,0 +1,5 @@
+/home/ahtelek/Qt/Tools/CMake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/ahtelek/Qt/Tools/Ninja/ninja -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G Ninja -S /home/ahtelek/Desktop/ahtelek/code/opencv_cplusplus/Project2 -B /home/ahtelek/Desktop/ahtelek/code/opencv_cplusplus/Project2/cmake-build-debug
+-- Found OpenCV: /usr/local (found version "4.7.0") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ahtelek/Desktop/ahtelek/code/opencv_cplusplus/Project2/cmake-build-debug

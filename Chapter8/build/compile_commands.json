@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ahtelek/Desktop/ahtelek/code/opencv_cplusplus/Chapter8/build",
+  "command": "/usr/bin/g++ -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o CMakeFiles/Chapter8.dir/main.cpp.o -c /home/ahtelek/Desktop/ahtelek/code/opencv_cplusplus/Chapter8/main.cpp",
+  "file": "/home/ahtelek/Desktop/ahtelek/code/opencv_cplusplus/Chapter8/main.cpp"
+}
+]
