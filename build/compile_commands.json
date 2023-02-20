@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ahtelek/Desktop/ahtelek/code/learn_opencv_cplusplus/build",
+  "command": "/usr/bin/g++ -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o CMakeFiles/ColorPicker.dir/main.cpp.o -c /home/ahtelek/Desktop/ahtelek/code/learn_opencv_cplusplus/ColorPicker/main.cpp",
+  "file": "/home/ahtelek/Desktop/ahtelek/code/learn_opencv_cplusplus/ColorPicker/main.cpp"
+}
+]
